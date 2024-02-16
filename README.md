@@ -1,6 +1,9 @@
 # ZooQL
 **Query Zookeeper via SQL.**
 
+https://github.com/pourtorabehsan/zooql/assets/44220878/c3148cd8-8d5d-4971-bcd1-4c5d07cbb9ff
+
+
 ## Overview
 
 ZooQL consists of two main components: a backend written in Golang and a frontend built with Next.js. The backend process connects to a Zookeeper cluster and reads all the paths from a specified base path, storing them in an in-memory SQLite database. It also creates a watch on the Zookeeper path and updates the SQLite database based on the events, ensuring the SQLite database is always up-to-date with the current Zookeeper data. The backend also exposes a POST API for executing queries on the SQLite database.
