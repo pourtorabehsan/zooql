@@ -1,7 +1,7 @@
 # ZooQL
 **Query Zookeeper via SQL.**
 
-https://github.com/pourtorabehsan/zooql/assets/44220878/c3148cd8-8d5d-4971-bcd1-4c5d07cbb9ff
+![demo](https://github.com/pourtorabehsan/zooql/assets/44220878/20788490-a9b2-47df-8328-3fca3b1ee362)
 
 
 ## Overview
